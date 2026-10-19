@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sachin1996Banker
+- 👋 Hi, I’m Sachin
 - 👀 I’m interested in Backend systems, Databases, and AI
 - 🌱 I’m currently enrolled in Scalers' Masters Programme
 - 💞️ I’m looking to collaborate on opensource projects
